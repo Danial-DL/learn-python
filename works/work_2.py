@@ -1,4 +1,4 @@
-class calculator:
+class Calculator:
     def __init__(self):
         self.num1 = int(input("Enter number one : "))
         self.num2 = int(input("Enter number two : "))
