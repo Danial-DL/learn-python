@@ -3,7 +3,5 @@
 [3] : This is a health software. With this program, the user can get the health of his body and solve any problems in its natural properties with medical advice. 🏋️‍♀️✔
 [4] : Using this project, you can determine whether a triangle with the desired three sides can be formed or not. 🔺✔
 [5] : This project is used to manage stores and shops Use it to manage products and goods without any errors and with high features🛒🛍︎🏬✔
-[6] : With this project, you can set the date and time ⏰✔
-[7] : This program calculates your age based on today's date and your date of birth 👶👱‍♂️👨‍🦳✔
 [8] : Attention, this program is not yet fully tested and has bugs ‼🚫❌
 [9] : Attention, this program is not yet fully tested and has bugs ‼🚫❌
