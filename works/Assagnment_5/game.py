@@ -1,7 +1,6 @@
 import pygame
 import random
 import os
-import time
 pathFile = os.getcwd()
 PathPy = pathFile.replace("\\","/")
 print(PathPy)
