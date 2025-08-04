@@ -7,9 +7,14 @@ Analyzing California House Data from Dataset:
 ### ----------------------------------------------------------------------------------
 
 # clearDataSet_housing.ipynb
-## This program cleans up the California homes dataset and removes empty and duplicate data.🧹
+## This program cleans up the California homes dataset and removes empty and duplicate data. 🧹
 
 ### ----------------------------------------------------------------------------------
 
-# Be sure to take a look inside the Assagment_13 folder.
+# Dataـgrouping.ipynb
+## With this program, you can group parts of a data set, such as the age of a house. 📒
+
+### ----------------------------------------------------------------------------------
+
+# Be sure to take a look inside the Assagment_13 folder. 📁
 
